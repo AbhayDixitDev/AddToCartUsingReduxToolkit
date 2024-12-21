@@ -7,12 +7,12 @@ function Footer() {
         <div className="text-center">
           <span className="text-muted">
             Made with <i className="fa fa-heart" aria-hidden="true"></i> by{' '}
-            <a href="https://github.com/mbcrump" target="_blank" rel="noopener noreferrer">
-              <FaGithub /> Michael Crump
+            <a href="https://github.com/abhaydixitdev" target="_blank" rel="noopener noreferrer">
+              <FaGithub /> Abhay Dixit
             </a>{' '}
             and{' '}
-            <a href="https://www.linkedin.com/in/mbcrump/" target="_blank" rel="noopener noreferrer">
-              <FaLinkedin /> LinkedIn
+            <a href="https://www.linkedin.com/in/abhaydixitdev/" target="_blank" rel="noopener noreferrer">
+              <FaLinkedin /> Abhay Dixit
             </a>
           </span>
         </div>
